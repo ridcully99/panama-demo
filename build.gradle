@@ -29,11 +29,12 @@ configurations.all {
 
 // In this section you declare the dependencies for your production and test code
 dependencies {
-    compile 'panama:panama:4.0.0'
+    compile 'panama:panama:4.0.1'
     compile 'jdom:jdom:1.1'
     compile 'jmimemagic:jmimemagic:0.1.2'
     compile 'com.h2database:h2:1.4.191'
     compile 'mysql:mysql-connector-java:5.1.38'
+    compileOnly "javax.servlet:servlet-api:2.5"
 
     // Declare the dependency for your favourite test framework you want to use in your tests.
     // TestNG is also supported by the Gradle Test task. Just change the

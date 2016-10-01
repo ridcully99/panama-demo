@@ -1,10 +1,10 @@
 <html>
 <head>
-	<title>Panama Examples</title>
+	<title>Panama Demo</title>
 	<link rel="stylesheet" href="../simple.css" type="text/css">
 </head>
 <body>
-	<div class="examplesheader">Panama Examples</div>
+	<div class="examplesheader">Panama Demo</div>
 	<h4><a href="../tinyguestbook">Tiny Guestbook</a></h4>
 	<p>A tiny guestbook as featured in the project's wiki.</p>
 	<hr />
